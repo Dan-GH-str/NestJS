@@ -5,4 +5,12 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-Nest is [MIT licensed](LICENSE).
+# Учебный проект по NestJS
+
+## Обозреваемые концепции:
+- Основы NestJS (модули, контроллеры и сервисы).
+- Фундаментальные концепции: декораторы, middleware, pipes, guards, interceptors.
+- Работа с СУБД Postgresql при помощи ORM Prisma.
+- Микросервисы - веб-сервисы, отвечающий за один определенный элемент логики в какой-либо предметной области приложения.
+- CrapghQLModule в связке с сервером Apollo для реализации возможности принятия и обработки GraphQL запросов.
+- Модуль @nestjs/swagger, позволяющий написать документацию с помощью декораторов.
